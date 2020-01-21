@@ -1,3 +1,8 @@
-<h6>My personal portfolio</h6>
-<p>Built with React,GatsbyJS and GraphQL</p>
+<h3>My personal portfolio</h3>
+Built with
+  <ul>
+    <li>React</li>
+    <li>GatsbyJS</li>
+    <li>GraphQL</li>
+  </ul>
 Take a look at https://zoharyandrianome-portfolio.netlify.com/
