@@ -1,0 +1,9 @@
+footer {
+    ul {
+        li {
+            @media (max-width: 576px) {
+                display: block!important;
+            }
+        }
+    }
+}

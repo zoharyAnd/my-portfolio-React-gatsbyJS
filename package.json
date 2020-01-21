@@ -1,0 +1,71 @@
+{
+  "name": "zohary-andrianome-portfolio",
+  "private": true,
+  "description": "Zohary Andrianome portfolio",
+  "version": "0.1.0",
+  "author": "Zohary Andrianome",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.15",
+    "@fortawesome/free-brands-svg-icons": "^5.7.2",
+    "@fortawesome/free-solid-svg-icons": "^5.7.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@material-ui/core": "^4.8.0",
+    "@material-ui/icons": "^4.5.1",
+    "@material-ui/styles": "^4.7.1",
+    "babel-plugin-styled-components": "^1.10.6",
+    "classnames": "^2.2.6",
+    "core-js": "^2.6.5",
+    "gatsby": "^2.13.45",
+    "gatsby-image": "^2.2.7",
+    "gatsby-plugin-manifest": "^2.2.4",
+    "gatsby-plugin-material-ui": "^2.1.6",
+    "gatsby-plugin-offline": "^2.2.4",
+    "gatsby-plugin-react-helmet": "^3.1.2",
+    "gatsby-plugin-resolve-src": "^2.0.0",
+    "gatsby-plugin-sass": "^2.0.10",
+    "gatsby-plugin-sharp": "^2.2.9",
+    "gatsby-plugin-styled-components": "^3.1.16",
+    "gatsby-source-filesystem": "^2.1.8",
+    "gatsby-transformer-json": "^2.2.2",
+    "gatsby-transformer-sharp": "^2.2.5",
+    "history": "^4.7.2",
+    "node-sass": "^4.11.0",
+    "nouislider": "^13.1.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-datetime": "^2.16.3",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.1",
+    "react-html-parser": "^2.0.2",
+    "react-icon": "^1.0.0",
+    "react-icons": "^3.5.0",
+    "react-router-dom": "^4.3.1",
+    "react-slick": "^0.23.2",
+    "react-swipeable-views": "^0.13.1",
+    "styled-components": "^4.4.1",
+    "typeface-roboto": "0.0.54",
+    "typeface-roboto-slab": "0.0.72"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoharyAnd/my-portfolio-React-gatsbyJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
