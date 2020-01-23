@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-First you will need to install NodeJs and npm on your computer.
+First you will need to install **NodeJs** , **npm** and **gatsby-cli** on your computer.
 Then clone this project and on the root folder of your clone run
 
 ```
