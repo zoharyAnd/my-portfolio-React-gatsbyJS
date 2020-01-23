@@ -1,6 +1,10 @@
-# Zohary Andrianome Portfolio of Realisations
+# Portfolio of Realisations
 
 This project is a detailed portfolio of my realisations including descriptions about my skills and attached my resume.
+
+## Author
+
+**Zohary Andrianome** - *Initial work* 
 
 ## Getting Started
 
@@ -37,6 +41,3 @@ gatsby serve
 * [ReactJs](https://reactjs.org/)
 * [GatsbyJs](https://www.gatsbyjs.org/) 
 
-## Authors
-
-* **Zohary Andrianome** - *Initial work* 
