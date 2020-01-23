@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zohary Andrianome Portfolio of Realisations
 
 This project is a detailed portfolio of my realisations including descriptions about my skills and attached my resume.
